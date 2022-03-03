@@ -16,3 +16,4 @@ chown vincent:staff * changes the owner to vincent and the group owner to staff 
 chown -h vincent:staff _hello changes the owner and the group owner of _hello to vincent and staff respectively
 changes the owner and the group owner of _hello to vincent and staff respectively
 adds specify permmision
+telnet towel.blinkenlights.nl will play the starwar Iv episode on ther terminal
