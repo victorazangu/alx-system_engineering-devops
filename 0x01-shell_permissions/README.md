@@ -12,3 +12,4 @@ adding 9-john_doe file
  sudo chmod -R _11 */ adds execute permission to all subdirectories of the current directory of the owner
 creates a directory with specifc permmisions
 chgrp changes the group permmision
+chown vincent:staff * changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
